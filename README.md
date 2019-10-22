@@ -1,2 +1,2 @@
 # rae1
-print (hello)
+print(hello world)
