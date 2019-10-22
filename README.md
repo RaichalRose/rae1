@@ -1,3 +1,2 @@
 # rae1
-first github
-rae
+print (hello)
